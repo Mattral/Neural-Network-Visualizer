@@ -158,22 +158,3 @@ Visualization improvements and conceptual clarity are especially valued.
 
 ---
 
-## When Should You Pin This Repo?
-
-You should pin this repository if you want to showcase:
-
-* Conceptual understanding of neural networks
-* Interest in interpretability & education
-* Ability to reason beyond black-box ML APIs
-
-This repo signals **depth of understanding**, not trend-chasing.
-
----
-
-## Final Note
-
-Neural networks are not just equations — they are **systems**.
-
-This project exists to make those systems visible.
-
----
